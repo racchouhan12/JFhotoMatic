@@ -1,0 +1,1 @@
+create table images(id number(5) primary key,img blob);

@@ -1,0 +1,2 @@
+D:\pankaj\ProjStuffs\NewStart>jar -cmf mainclass.txt JFotomatic.jar *.class layo
+uts resources "samples for morphing" SPLASH
